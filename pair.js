@@ -7,19 +7,16 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE || `
 *SESSION GENERATED SUCCESSFULY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Mek-d1/X-BOT-MD
-
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G
+https://whatsapp.com/channel/0029Vb6pI1VBqbrIwyeZr12t
 
 *REACH OUT*
-https://wa.me/2349133354644
+https://wa.me/94719827972
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Mek-d1
+*සියල්ලෝම මිතුරන් නොවේ එයාලා අතර ඔත්තුකරුවන්ද සිටිය හැක
+💀*
 
-*X-BOT-MD--WHATTSAPP-BOT* 🥀
+*Quveen-shani-WHATTSAPP-BOT* 🥀
 `;
 
 const { upload } = require('./mega');
